@@ -79,7 +79,7 @@ params = Params(
     action_size=None,
     state_size=None,
     proba_frozen=0.9,
-    savefig_folder=Path("../../_static/img/tutorials/"),
+    savefig_folder=Path("./img/FrozenLake"),
 )
 params
 
